@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Stevie-Ray/Stevie-Ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stevie-Ray Hartog, a passionate skateboarder and rock climber on a mission to elevate the world of extreme sports. 🌍 Born and bred in the Netherlands. I've carved my path through the concrete jungles and scaled the peaks that beckon to the daring.
 
-Here are some ideas to get you started:
+### HangTime
+As the proud owner of HangTime, an innovative climbing app, I've set out to revolutionise how climbers connect, share experiences, and challenge their limits. 🚀🧗‍♀️ HangTime isn't just an app; it's a community, a digital haven for climbers to map their routes, share tips, and inspire each other to reach new heights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Android](https://play.google.com/store/apps/details?id=nl.stevie.ray.hangtime) - [iOS](https://apps.apple.com/app/hangtime-hangboard-training/id1631706818)
+
+### Sponsor
+
+Support Stevie-Ray's open-source work, revolutionizing climbing! 🧗‍♂️ Skateboarder, rock climber, and owner of HangTime climbing app. Join the adventure! 🛹📱
+
+[Sponsor](https://github.com/sponsors/Stevie-Ray)
